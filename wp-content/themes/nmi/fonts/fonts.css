@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'FontSiteSansBold';
+    src: url('FontSiteSans-Bold-webfont.eot');
+    src: url('FontSiteSans-Bold-webfont.svg#webfontFJcYFAaQ') format('svg'),
+		url('FontSiteSans-Bold-webfont.eot?iefix') format('eot'),
+         url('FontSiteSans-Bold-webfont.woff') format('woff'),
+         url('FontSiteSans-Bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'FontSiteSansLight';
+    src: url('FontSiteSans-Light-webfont.eot');
+    src: url('FontSiteSans-Light-webfont.svg#webfontpVAbKcMZ') format('svg'),
+		url('FontSiteSans-Light-webfont.eot?iefix') format('eot'),
+         url('FontSiteSans-Light-webfont.woff') format('woff'),
+         url('FontSiteSans-Light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'FontSiteSansRoman';
+    src: url('FontSiteSans-Roman-webfont.eot');
+    src: url('FontSiteSans-Roman-webfont.svg#webfont5UoCtSnz') format('svg'),
+		url('FontSiteSans-Roman-webfont.eot?iefix') format('eot'),
+         url('FontSiteSans-Roman-webfont.woff') format('woff'),
+         url('FontSiteSans-Roman-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
